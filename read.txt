@@ -1,2 +1,4 @@
-this is a test i made to see how cargo and git can work together the math thing is in another folder and i wont add it
-
+this is a test i made to see how cargo and git can work together 
+the math thing is in another folder and i wont add it in
+this was mostly done on the terminal the only thing done here was making the repo and settings
+please do not add any issues or mkae any contributions
