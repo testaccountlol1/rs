@@ -1,10 +1,6 @@
 fn main() {
-    let a = math::op::revi(&mut 92);
-    std::println!("{}",a);
-    let b = math::pow(&5,&5);
-    std::println!("{}",b);
-    let c = math::neq(&1);
-    std::println!("{}",c);
-    let d = math::ab(&c);
-    std::println!("{}",d);
+    let vec: Vec<i32> = [1,2,3,5,8,4,0,10,23,30].to_vec();
+    println!("{:#?}",math::sr::bins(vec.clone(),30));
+
+    println!("{:#?}",math::sr::srt(vec));
 }
